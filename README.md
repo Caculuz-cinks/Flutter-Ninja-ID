@@ -1,4 +1,4 @@
-# ninjaid
+# Ninja ID
 
 A new Flutter application.
 
